@@ -1,0 +1,9 @@
+/.env
+/node_modules
+/format.js
+/code.txt
+/newcode.txt
+/examplecode.txt
+/converted_runpod_api.txt
+/images
+/dummyorder.json
